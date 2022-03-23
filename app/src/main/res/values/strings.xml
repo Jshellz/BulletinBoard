@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Bulletin board</string>
+    <string name="name">Bulletin board</string>
+    <string name="cat_one">Объявления</string>
+    <string name="cat_my_ad">Мои объявления</string>
+    <string name="cat_car">Машины</string>
+    <string name="cat_pc">Компьютеры</string>
+    <string name="cat_smartphone">Смартфоны</string>
+    <string name="cat_appliances">Бытовая техника</string>
+    <string name="cat_two">Аккаунт</string>
+    <string name="acc_signIn">Регистрация</string>
+    <string name="acc_logIn">Вход</string>
+    <string name="acc_logOut">Выход</string>
+    <string name="open">Открыто</string>
+    <string name="close">Закрыто</string>
+    <string name="registration">Регистрация</string>
+    <string name="not_registration">Войдите или зарегистрируйтесь</string>
+    <!--Sign_in-->
+    <string name="tv_sign_title">Зарегистрироваться</string>
+    <string name="email_reset_password_was_sent">На вашу почту был отправлен пароль для восстановления!</string>
+    <string name="dialog_reset_email_message">Для восстановление пароля укажите ваш адрес</string>
+    <string name="tv_sign_up_title">Войти</string>
+    <string name="ed_sign_title">Name</string>
+    <string name="ed_sign_password">Password</string>
+    <string name="btn_sign_in_action">Зарегистрироваться</string>
+    <string name="btn_sign_up_action">Войти</string>
+    <string name="password_reset">Забыли пароль?</string>
+    <string name="sign_in_error">Неудалось зарегестрироваться</string>
+    <string name="sign_up_error">Неудалось войти</string>
+    <string name="send_verification_email_error">Неудалось отправить email для подтверждения</string>
+    <string name="send_verification_done">На вашу почту было отправленна ссылка для подверждения вашего акаунта!</string>
+    <string name="default_web_client_id">ХЗ</string>
+</resources>
